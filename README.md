@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VedanshS18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/VedanshS18/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedanshS18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/VedanshS18/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedanshS18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/VedanshS18/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedanshS18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
