@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VedanshS18/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/VedanshS18/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/VedanshS18/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedanshS18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VedanshS18/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VedanshS18/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VedanshS18/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/VedanshS18/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/VedanshS18/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/VedanshS18/LeetCode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/VedanshS18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/VedanshS18/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
