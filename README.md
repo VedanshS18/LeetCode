@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/VedanshS18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VedanshS18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/VedanshS18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0912-sort-an-array](https://github.com/VedanshS18/LeetCode/tree/master/0912-sort-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/VedanshS18/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VedanshS18/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/VedanshS18/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/VedanshS18/LeetCode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/VedanshS18/LeetCode/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedanshS18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/VedanshS18/LeetCode/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -88,4 +91,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedanshS18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VedanshS18/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VedanshS18/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VedanshS18/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VedanshS18/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/VedanshS18/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
