@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/VedanshS18/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/VedanshS18/LeetCode/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedanshS18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VedanshS18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/VedanshS18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VedanshS18/LeetCode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/VedanshS18/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/VedanshS18/LeetCode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VedanshS18/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
