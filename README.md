@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VedanshS18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/VedanshS18/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VedanshS18/LeetCode/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/VedanshS18/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/VedanshS18/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/VedanshS18/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0054-spiral-matrix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VedanshS18/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedanshS18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/VedanshS18/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/VedanshS18/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/VedanshS18/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/VedanshS18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/VedanshS18/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedanshS18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -137,11 +140,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/VedanshS18/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/VedanshS18/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/VedanshS18/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VedanshS18/LeetCode/tree/master/0090-subsets-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/VedanshS18/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/VedanshS18/LeetCode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/VedanshS18/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
