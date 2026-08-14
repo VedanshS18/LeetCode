@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedanshS18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/VedanshS18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/VedanshS18/LeetCode/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/VedanshS18/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/VedanshS18/LeetCode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/VedanshS18/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/VedanshS18/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/VedanshS18/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/VedanshS18/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/VedanshS18/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/VedanshS18/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
