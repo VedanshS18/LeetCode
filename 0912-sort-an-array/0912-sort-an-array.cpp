@@ -1,36 +1,47 @@
 class Solution {
 public:
-    void heapify(vector<int>& nums, int n, int i) {
-        int largest = i;
-        int left = 2 * i + 1;
-        int right = 2 * i + 2;
+    void merge(vector<int>& nums, int st, int end, int mid){
+        vector<int> temp;
 
-        if (left < n && nums[left] > nums[largest])
-            largest = left;
+        int i = st;
+        int j = mid+1;
 
-        if (right < n && nums[right] > nums[largest])
-            largest = right;
+        while(i <= mid && j <= end){
+            if(nums[i] <= nums[j]){
+                temp.push_back(nums[i]);
+                i++;
+            }else{
+                temp.push_back(nums[j]);
+                j++;
+            }
+        }
 
-        if (largest != i) {
-            swap(nums[i], nums[largest]);
-            heapify(nums, n, largest);
+        while(i <= mid){
+            temp.push_back(nums[i]);
+            i++;
+        }
+        while(j <= end){
+            temp.push_back(nums[j]);
+            j++;
+        }
+
+        for(int i = 0; i < temp.size(); i++){
+            nums[i+st] = temp[i];
+        }
+    }
+
+    void mergesort(vector<int>& nums, int st, int end){
+        if(st < end){
+            int mid = st + (end - st)/2;
+
+            mergesort(nums, st, mid);
+            mergesort(nums, mid+1, end);
+            merge(nums, st, end, mid);
         }
     }
 
     vector<int> sortArray(vector<int>& nums) {
-        int n = nums.size();
-
-        // Build Max Heap
-        for (int i = n / 2 - 1; i >= 0; i--) {
-            heapify(nums, n, i);
-        }
-
-        // Heap Sort
-        for (int i = n - 1; i > 0; i--) {
-            swap(nums[0], nums[i]);
-            heapify(nums, i, 0);
-        }
-
+        mergesort(nums, 0, nums.size()-1);
         return nums;
     }
 };
