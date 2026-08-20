@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/VedanshS18/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/VedanshS18/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VedanshS18/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VedanshS18/LeetCode/tree/master/0090-subsets-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedanshS18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VedanshS18/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VedanshS18/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/VedanshS18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/VedanshS18/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/VedanshS18/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/VedanshS18/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/VedanshS18/LeetCode/tree/master/0242-valid-anagram) |
 ## Trie
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/VedanshS18/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/VedanshS18/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/VedanshS18/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedanshS18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/VedanshS18/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/VedanshS18/LeetCode/tree/master/2596-check-knight-tour-configuration) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/VedanshS18/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/VedanshS18/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/VedanshS18/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/VedanshS18/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/VedanshS18/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/VedanshS18/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/VedanshS18/LeetCode/tree/master/0079-word-search) |
 | [2596-check-knight-tour-configuration](https://github.com/VedanshS18/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
