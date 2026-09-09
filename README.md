@@ -206,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/VedanshS18/LeetCode/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/VedanshS18/LeetCode/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VedanshS18/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/VedanshS18/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/VedanshS18/LeetCode/tree/master/0100-same-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/VedanshS18/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
@@ -285,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/VedanshS18/LeetCode/tree/master/0134-gas-station) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VedanshS18/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/VedanshS18/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
