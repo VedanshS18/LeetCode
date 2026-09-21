@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/VedanshS18/LeetCode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/VedanshS18/LeetCode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/VedanshS18/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/VedanshS18/LeetCode/tree/master/3870-count-commas-in-range) |
