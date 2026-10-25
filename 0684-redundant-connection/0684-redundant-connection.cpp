@@ -1,16 +1,23 @@
 class Solution {
 public:
 
-    bool isCycleUndirDFS(int src, int par, vector<bool> &vis , vector<vector<int>>& adj){
+    bool isCycleUndirBFS(int src, vector<bool> &vis , vector<vector<int>>& adj){
+        queue<pair<int,int>> q;
+        q.push({src, -1});
         vis[src] = true;
 
-        for(int v : adj[src]){
-            if(!vis[v]){
-                if(isCycleUndirDFS(v, src, vis, adj)){
+        while(q.size() > 0){
+            int u = q.front().first;
+            int parU = q.front().second;
+            q.pop();
+
+            for(int v: adj[u]){
+                if(!vis[v]){
+                    q.push({v, u});
+                    vis[v] = true;
+                }else if(v != parU){
                     return true;
                 }
-            }else if(v != par){
-                return true;
             }
         }
         return false;
@@ -31,7 +38,7 @@ public:
 
             vector<bool> vis(n+1, false);
 
-            if(isCycleUndirDFS(u, -1, vis, adj)){
+            if(isCycleUndirBFS(u, vis, adj)){
                 return edge;
             }
         }
