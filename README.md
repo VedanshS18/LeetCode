@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/VedanshS18/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/VedanshS18/LeetCode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/VedanshS18/LeetCode/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/VedanshS18/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/VedanshS18/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1572-matrix-diagonal-sum](https://github.com/VedanshS18/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VedanshS18/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VedanshS18/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/VedanshS18/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VedanshS18/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/VedanshS18/LeetCode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/VedanshS18/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2596-check-knight-tour-configuration](https://github.com/VedanshS18/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/VedanshS18/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/VedanshS18/LeetCode/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/VedanshS18/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/VedanshS18/LeetCode/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/VedanshS18/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
